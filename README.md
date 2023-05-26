@@ -20,15 +20,17 @@ The application will open a GUI with a text field for entering a city name. Ente
 Features
 The application has the following features:
 
-Retrieve weather data for a given city
-Display the current weather conditions
-Display the humidity
-Display the pressure
+* Retrieve weather data for a given city
+* Display the current weather conditions
+* Display the humidity
+* Display the pressure
+
 Future Work
 The following are some ideas for future work on the project:
 
-Add support for multiple weather APIs
-Add support for displaying weather forecasts
-Add support for displaying weather maps
+* Add support for multiple weather APIs
+* Add support for displaying weather forecasts
+* Add support for displaying weather maps
+
 License
 The project is licensed under the MIT License.
