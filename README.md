@@ -32,5 +32,4 @@ The following are some ideas for future work on the project:
 * Add support for displaying weather forecasts
 * Add support for displaying weather maps
 
-License
 The project is licensed under the MIT License.
